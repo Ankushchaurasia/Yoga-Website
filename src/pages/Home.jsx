@@ -27,7 +27,7 @@ const Home = () => {
 
       
       <a 
-        href="https://wa.me/9991544606" 
+        href="https://wa.me/919991544606" 
         target="_blank" 
         rel="noreferrer"
         className="fixed bottom-6 right-6 bg-green-500 text-white p-4 rounded-full shadow-lg hover:bg-green-600 transition-colors z-50"
